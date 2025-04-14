@@ -1,3 +1,9 @@
+Ollama for local LLMs
+LlamaIndex for retrieval orchestration
+ChromaDB as the vector database.
+
+Create separate Conda environment and install all dependencies: 
+
 conda install jupyter notebook
  
 pip install llama-index-llms-ollama
